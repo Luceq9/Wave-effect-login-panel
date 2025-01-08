@@ -1,0 +1,7 @@
+<h1>Wave Login Effect</h1> <p><strong>Opis:</strong> Ta strona internetowa zawiera formularz logowania z efektami falowania dla etykiet pól formularza. Użytkownicy mogą wprowadzić swoją nazwę użytkownika i hasło, a także mają opcję rejestracji, jeśli nie mają jeszcze konta.</p>
+
+<h2>Struktura HTML:</h2> <ul> <li><strong>Nagłówek (<head>):</strong> Zawiera podstawowe informacje meta, tytuł strony oraz link do pliku CSS.</li> <li><strong>Korpus (<body>):</strong> Główna zawartość strony, zawierająca: <ul> <li><strong>Kontener (<div class="container">):</strong> Główny kontener strony logowania.</li> <li><strong>Formularz (<form>):</strong> Zawiera pola wprowadzania dla nazwy użytkownika i hasła, przycisk logowania oraz link do rejestracji.</li> </ul> </li> </ul>
+
+<h2>Stylizacja i funkcjonalność:</h2> <ul> <li><strong>CSS (style.css):</strong> Stylizuje cały interfejs użytkownika, nadając mu nowoczesny wygląd i efekty falowania dla etykiet pól formularza.</li> <li><strong>JavaScript (script.js):</strong> Plik skryptu odpowiedzialny za obsługę dodatkowych funkcji na stronie (brak obecnych funkcji w dostarczonym kodzie).</li> </ul>
+
+<h2>Kroki instalacji:</h2> <ol> <li>Dołącz plik stylów (style.css), aby zastosować niestandardowe style do elementów HTML.</li> <li>Dodaj skrypt JavaScript (script.js), aby umożliwić dodatkowe funkcje na stronie (jeśli takie są zaimplementowane).</li> </ol>
